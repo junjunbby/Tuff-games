@@ -1,2 +1,2 @@
 # Tuff-games
-made by JunJun
+made by JunJun aiming tobe as good as poki, crazygames etc.
